@@ -4,11 +4,11 @@
 
 ## 完成截图
 
-![image-20201219170458175](work2.assets/image-20201219170458175.png)
+![](https://mmbiz.qpic.cn/mmbiz_png/oicdIte63Wb8JOVEjYdxzaF92KWciaWGZAwlzLEYvLksERKF725Pl4iaZhxJSXEsUvvhwqlcrMDCM5g0PACRjG8zA/0?wx_fmt=png)
 
-![image-20201219172214676](work2.assets/image-20201219172214676.png)
+![image-20201219172214676](work2.assets/0)
 
-![image-20201219172857270](work2.assets/image-20201219172857270.png)
+![](work2.assets/0)
 
 ## 笔记
 
@@ -27,7 +27,7 @@ DNS：172.16.129.2
 
 在虚拟机的编辑-虚拟网络编辑器里面，把dhcp服务关掉，并设置子网IP和子网掩码
 
-![image-20201219173722761](work2.assets/image-20201219173722761.png)
+![image-20201219173722761](work2.assets/0)
 
 然后我们需要编辑2个文件
 
